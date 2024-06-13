@@ -4,7 +4,7 @@ This Netflix Clone is a cutting-edge movie information platform powered by advan
 
 ## Live Project
 
-Explore Netflix Clone live: [MadflixGPT Live](https://netflix-clone-ccd3d.web.app/)
+Explore Netflix Clone live: [Netflix Clone Live](https://netflix-clone-ccd3d.web.app/)
 
 ## Features
 
