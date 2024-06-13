@@ -2,6 +2,10 @@
 
 This Netflix Clone is a cutting-edge movie information platform powered by advanced AI technology. With this you can explore movies, discover new favorites, and get personalized movie recommendations based on any query you provide, thanks to the powerful GeminiPro API integration.
 
+## Live Project
+
+Explore Netflix Clone live: [MadflixGPT Live](https://netflix-clone-ccd3d.web.app/)
+
 ## Features
 
 - **GeminiPro Movie Search**: Utilize the power of AI to search for movies based on any query, no matter how complex, and receive tailored suggestions.
